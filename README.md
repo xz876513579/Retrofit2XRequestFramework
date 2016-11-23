@@ -1,0 +1,2 @@
+# Retrofit2XRequestFramework
+针对Retrofit2的请求封装，只使用到了Retrofit2相关的引用，没有包含RxJava等。
