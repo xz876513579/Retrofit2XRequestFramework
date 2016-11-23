@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrofit2XRequest</string>
+
+    <string name="request_success_message">请求成功</string>
+    <string name="request_server_error_message">请求失败请稍后再试(%1$d)</string>
+    <string name="request_server_exception_message">请求失败请稍后再试(%1$d)</string>
+    <string name="request_send_error">请求失败请稍后再试(%1$d)</string>
+    <string name="response_analysis_error">请求失败请稍后再试(%1$d)</string>
+    <string name="request_network_error_message">网络异常请稍后再试(%1$d)</string>
+    <string name="request_send_file_error">文件上传失败(%1$d)</string>
+
+</resources>
